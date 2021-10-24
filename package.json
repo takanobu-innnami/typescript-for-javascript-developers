@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/takanobu-innnami/typescript-for-javascript-developers/issues"
   },
-  "homepage": "https://github.com/takanobu-innnami/typescript-for-javascript-developers#readme"
+  "homepage": "https://github.com/takanobu-innnami/typescript-for-javascript-developers#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  },
+  "tsc": ".\\node_modules\\.bin\\tsc"
 }
